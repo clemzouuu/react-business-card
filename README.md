@@ -1,4 +1,5 @@
 # react-business-card
+My first react project
 this is a static business card made with react
 follow me learning react along.
 
